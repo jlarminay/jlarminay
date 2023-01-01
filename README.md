@@ -1,9 +1,13 @@
 <div>
-  <h1>Hi there 👋</h1>
+  <img src="https://raw.githubusercontent.com/jlarminay/jlarminay/main/images/header.png" />
 </div>
 
-<hr/>
 <div>
+  <p></p>
+</div>
+
+<div>
+  <hr/>
   <h3>Some of my favourite languages and tools</h3>
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="80" height="80" style="margin:10px;" /> 
@@ -20,8 +24,8 @@
   </p>
 </div>
 
-<hr/>
 <div>
+  <hr/>
   <h3>Some Github Stats</h3>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlarminay&show_icons=true&theme=dark&locale=en&layout=compact" alt="jlarminay" />
