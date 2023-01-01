@@ -24,7 +24,7 @@
   <hr/>
   <h3>Some Github Stats</h3>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlarminay&show_icons=true&theme=dark&locale=en&layout=compact" alt="jlarminay" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlarminay&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&hide_border=true" alt="jlarminay" />
   </p>
 </div>
 
