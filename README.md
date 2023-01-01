@@ -3,8 +3,7 @@
 </div>
 
 <div>
-  <hr/>
-  <h3>Some of my favourite languages and tools</h3>
+  <h2>My favourite languages and tools</h2>
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="80" height="80" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="80" height="80" /> 
@@ -21,8 +20,7 @@
 </div>
 
 <div>
-  <hr/>
-  <h3>Some Github Stats</h3>
+  <h2>Some Github Stats</h2>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlarminay&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&hide_border=true" alt="jlarminay" />
   </p>
