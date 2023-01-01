@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/jlarminay/jlarminay/main/images/header.png" />
 </div>
 
