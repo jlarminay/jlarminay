@@ -15,7 +15,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="80" height="80" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Cordova-logo-by-gengns.svg" alt="cordova" width="80" height="80"/>
     <!-- <img src="" alt="" width="80" height="80"/>  -->
   </p>
 </div>
